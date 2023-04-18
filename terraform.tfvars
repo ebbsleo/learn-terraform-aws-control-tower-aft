@@ -12,7 +12,6 @@ tf_backend_secondary_region = "us-west-2"
 vcs_provider                = "github"
     # TF Vars
 terraform_distribution = "tfc"
-#terraform_token        = "VL2bfwbnIi1ugw.atlasv1.dqnD7dNyWPIUWkrs9aWmQ6q90KFzUmOkyRpfZOXykPU7e4bagjmKEhN4GkIz16W1oq8"
 tfc_hostname = "app.terraform.io"
 terraform_org_name     = "AFT-demo-ett"
 terraform_app_org_name = "AFT-demo-app-teams"
